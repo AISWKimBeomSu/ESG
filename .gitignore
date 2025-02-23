@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -169,3 +170,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+=======
+# 환경 변수 파일
+.env
+
+# API 키가 포함된 설정 파일
+config.json
+secrets.yaml
+
+# 캐시 및 임시 파일
+__pycache__/
+*.pyc
+>>>>>>> 5d74b33 (add gitignore)
